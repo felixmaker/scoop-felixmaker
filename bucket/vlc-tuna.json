@@ -31,8 +31,8 @@
     ],
     "persist": "portable",
     "checkver": {
-        "url": "https://www.videolan.org/vlc/download-windows.html",
-        "regex": "\\s+([\\d.]+)</span>"
+        "url": "https://mirrors.tuna.tsinghua.edu.cn/videolan-ftp/vlc/last/",
+        "regex": "vlc-([\\d.]+).tar"
     },
     "autoupdate": {
         "architecture": {
