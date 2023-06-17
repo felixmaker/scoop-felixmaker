@@ -8,8 +8,9 @@
         "YY_THUNKS": "$dir"
     },
     "checkver": {
-        "url": "https://github.com/Chuyu-Team/YY-Thunks/releases",
-        "regex": "/download/v([\\d.]+-Beta(?<pre>\\d+))/"
+        "url": "https://api.github.com/repos/Chuyu-Team/YY-Thunks/releases",
+        "jsonpath": "$.[*].tag_name",
+        "regex": "([\\d.]+-Beta(?<pre>\\d+))"
     },
     "autoupdate": {
         "url": "https://ghproxy.com/github.com/Chuyu-Team/YY-Thunks/releases/download/v$version/YY-Thunks-$version-Binary.zip"

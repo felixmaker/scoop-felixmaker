@@ -8,8 +8,9 @@
         "VC_LTL": "$dir"
     },
     "checkver": {
-        "url": "https://github.com/Chuyu-Team/VC-LTL5/releases",
-        "regex": "/download/v([\\d.]+-Beta(?<pre>\\d+))/"
+        "url": "https://api.github.com/repos/Chuyu-Team/VC-LTL5/releases",
+        "jsonpath": "$.[*].tag_name",
+        "regex": "([\\d.]+-Beta(?<pre>\\d+))"
     },
     "autoupdate": {
         "url": "https://ghproxy.com/github.com/Chuyu-Team/VC-LTL5/releases/download/v$version/VC-LTL-$version-Binary.7z"
