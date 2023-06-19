@@ -1,6 +1,6 @@
 # 这里是 Felixmaker 维护的 Scoop Bucket 仓库
 
-[![Tests](https://kgithub.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://kgithub.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://kgithub.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://kgithub.com/<username>/<bucketname>/actions/workflows/excavator.yml)
+[![Tests](https://github.com/felixmaker/scoop-felixmaker/actions/workflows/ci.yml/badge.svg)](https://github.com/felixmaker/scoop-felixmaker/actions/workflows/ci.yml) [![Excavator](https://github.com/felixmaker/scoop-felixmaker/actions/workflows/excavator.yml/badge.svg)](https://github.com/felixmaker/scoop-felixmaker/actions/workflows/excavator.yml)
 
 用于分发 Felixmaker 制作的软件，或者 Felixmaker 喜欢的软件。
 
