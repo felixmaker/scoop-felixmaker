@@ -5,7 +5,7 @@
 使用 scoop 添加本仓库：
 
 ```ps1
-scoop bucket add felixmaker 'https://ghproxy.com/github.com/felixmaker/scoop-felixmaker'
+scoop bucket add felixmaker 'https://github.com/felixmaker/scoop-felixmaker'
 ```
 
 然后，你就可以愉快的使用啦！
