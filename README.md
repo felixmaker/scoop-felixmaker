@@ -20,6 +20,5 @@ scoop bucket add felixmaker 'https://github.com/felixmaker/scoop-felixmaker'
 | yy-thunks[-beta]  | https://github.com/Chuyu-Team/YY-Thunks/       |
 | sciter-js-sdk     | https://gitlab.com/sciter-engine/sciter-js-sdk |
 | flutter-tuna      | https://flutter.dev                            |
-| vlc-tuna          | https://www.videolan.org/                      |
 | cygwin-tuna       | https://cygwin.com/                            |
 | fltk-rs           | https://github.com/fltk-rs/fltk-rs/            |
