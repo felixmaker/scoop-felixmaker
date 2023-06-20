@@ -22,3 +22,4 @@ scoop bucket add felixmaker 'https://github.com/felixmaker/scoop-felixmaker'
 | flutter-tuna      | https://flutter.dev                            |
 | cygwin-tuna       | https://cygwin.com/                            |
 | fltk-rs           | https://github.com/fltk-rs/fltk-rs/            |
+| thunk             | https://github.com/felixmaker/thunk/           |
