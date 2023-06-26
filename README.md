@@ -10,6 +10,12 @@
 scoop bucket add felixmaker 'https://github.com/felixmaker/scoop-felixmaker'
 ```
 
+或者使用加速的镜像仓库：
+
+```ps1
+scoop bucket add sfm-cn 'https://ghproxy.com/github.com/felixmaker/sfm-cn/'
+```
+
 然后，你就可以愉快的使用啦！
 
 ## 本仓库维护着如下软件包
@@ -19,6 +25,5 @@ scoop bucket add felixmaker 'https://github.com/felixmaker/scoop-felixmaker'
 | vc-ltl5[-beta]    | https://github.com/Chuyu-Team/VC-LTL5/         |
 | yy-thunks[-beta]  | https://github.com/Chuyu-Team/YY-Thunks/       |
 | sciter-js-sdk     | https://gitlab.com/sciter-engine/sciter-js-sdk |
-| flutter-tuna      | https://flutter.dev                            |
 | fltk-rs           | https://github.com/fltk-rs/fltk-rs/            |
 | thunk             | https://github.com/felixmaker/thunk/           |
