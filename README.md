@@ -25,5 +25,4 @@ scoop bucket add sfm-cn 'https://ghproxy.com/github.com/felixmaker/sfm-cn/'
 | vc-ltl5[-beta]    | https://github.com/Chuyu-Team/VC-LTL5/         |
 | yy-thunks[-beta]  | https://github.com/Chuyu-Team/YY-Thunks/       |
 | sciter-js-sdk     | https://gitlab.com/sciter-engine/sciter-js-sdk |
-| fltk-rs           | https://github.com/fltk-rs/fltk-rs/            |
 | thunk             | https://github.com/felixmaker/thunk/           |
