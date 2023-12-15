@@ -10,10 +10,10 @@
 scoop bucket add felixmaker 'https://github.com/felixmaker/scoop-felixmaker'
 ```
 
-或者使用加速的镜像仓库：
+或者使用加速的[镜像仓库](https://github.com/felixmaker/sfm-cn)：
 
 ```ps1
-scoop bucket add sfm-cn 'https://gh-proxy.com/github.com/felixmaker/sfm-cn/'
+scoop bucket add sfm-cn 'https://mirror.ghproxy.com/github.com/felixmaker/sfm-cn/'
 ```
 
 然后，你就可以愉快的使用啦！
