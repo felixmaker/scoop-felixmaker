@@ -8,36 +8,46 @@
     "architecture": {
         "32bit": {
             "bin": [
-                "sciter-js-sdk-5.0.3.5\\bin\\windows\\x32\\scapp.exe",
                 "sciter-js-sdk-5.0.3.5\\bin\\windows\\x32\\usciter.exe",
                 "sciter-js-sdk-5.0.3.5\\bin\\windows\\x32\\gsciter.exe",
-                "sciter-js-sdk-5.0.3.5\\bin\\windows\\x32\\sciter-dx.exe"
+                "sciter-js-sdk-5.0.3.5\\bin\\windows\\x32\\sciter-dx.exe",
+                "sciter-js-sdk-5.0.3.5\\bin\\windows\\x32\\scapp.exe",
+                [
+                    "sciter-js-sdk-5.0.3.5\\bin\\windows\\x32\\scapp.exe",
+                    "quark",
+                    "sciter-js-sdk-5.0.3.5\\quark\\index.htm --debug"
+                ]
             ]
         },
         "64bit": {
             "bin": [
-                "sciter-js-sdk-5.0.3.5\\bin\\windows\\x64\\scapp.exe",
                 "sciter-js-sdk-5.0.3.5\\bin\\windows\\x64\\usciter.exe",
-                "sciter-js-sdk-5.0.3.5\\bin\\windows\\x64\\gsciter.exe"
+                "sciter-js-sdk-5.0.3.5\\bin\\windows\\x64\\gsciter.exe",
+                "sciter-js-sdk-5.0.3.5\\bin\\windows\\x64\\scapp.exe",
+                [
+                    "sciter-js-sdk-5.0.3.5\\bin\\windows\\x64\\scapp.exe",
+                    "quark",
+                    "sciter-js-sdk-5.0.3.5\\quark\\index.htm --debug"
+                ]
             ]
         },
         "arm64": {
-            "bin": [
-                "sciter-js-sdk-5.0.3.5\\bin\\windows\\arm64\\scapp.exe",
+            "bin": [                
                 "sciter-js-sdk-5.0.3.5\\bin\\windows\\arm64\\usciter.exe",
-                "sciter-js-sdk-5.0.3.5\\bin\\windows\\arm64\\sciter-dx.exe"
+                "sciter-js-sdk-5.0.3.5\\bin\\windows\\arm64\\sciter-dx.exe",
+                "sciter-js-sdk-5.0.3.5\\bin\\windows\\arm64\\scapp.exe",
+                [
+                    "sciter-js-sdk-5.0.3.5\\bin\\windows\\arm64\\scapp.exe",
+                    "quark",
+                    "sciter-js-sdk-5.0.3.5\\quark\\index.htm --debug"
+                ]
             ]
         }
     },
     "bin": [
         "sciter-js-sdk-5.0.3.5\\bin\\windows\\packfolder.exe",
         "sciter-js-sdk-5.0.3.5\\bin\\windows\\qjs.exe",
-        "sciter-js-sdk-5.0.3.5\\bin\\windows\\qjsc.exe",
-        [
-            "scapp.exe",
-            "quark",
-            "sciter-js-sdk-5.0.3.5\\quark\\index.htm --debug"
-        ]
+        "sciter-js-sdk-5.0.3.5\\bin\\windows\\qjsc.exe"
     ],
     "checkver": {
         "url": "https://gitlab.com/api/v4/projects/35456861/repository/tags",
@@ -49,36 +59,46 @@
         "architecture": {
             "32bit": {
                 "bin": [
-                    "sciter-js-sdk-$version\\bin\\windows\\x32\\scapp.exe",
                     "sciter-js-sdk-$version\\bin\\windows\\x32\\usciter.exe",
                     "sciter-js-sdk-$version\\bin\\windows\\x32\\gsciter.exe",
-                    "sciter-js-sdk-$version\\bin\\windows\\x32\\sciter-dx.exe"
+                    "sciter-js-sdk-$version\\bin\\windows\\x32\\sciter-dx.exe",
+                    "sciter-js-sdk-$version\\bin\\windows\\x32\\scapp.exe",
+                    [
+                        "sciter-js-sdk-$version\\bin\\windows\\x32\\scapp.exe",
+                        "quark",
+                        "sciter-js-sdk-$version\\quark\\index.htm --debug"
+                    ]
                 ]
             },
             "64bit": {
                 "bin": [
-                    "sciter-js-sdk-$version\\bin\\windows\\x64\\scapp.exe",
                     "sciter-js-sdk-$version\\bin\\windows\\x64\\usciter.exe",
-                    "sciter-js-sdk-$version\\bin\\windows\\x64\\gsciter.exe"
+                    "sciter-js-sdk-$version\\bin\\windows\\x64\\gsciter.exe",
+                    "sciter-js-sdk-$version\\bin\\windows\\x64\\scapp.exe",
+                    [
+                        "sciter-js-sdk-$version\\bin\\windows\\x64\\scapp.exe",
+                        "quark",
+                        "sciter-js-sdk-$version\\quark\\index.htm --debug"
+                    ]
                 ]
             },
             "arm64": {
-                "bin": [
-                    "sciter-js-sdk-$version\\bin\\windows\\arm64\\scapp.exe",
+                "bin": [                
                     "sciter-js-sdk-$version\\bin\\windows\\arm64\\usciter.exe",
-                    "sciter-js-sdk-$version\\bin\\windows\\arm64\\sciter-dx.exe"
+                    "sciter-js-sdk-$version\\bin\\windows\\arm64\\sciter-dx.exe",
+                    "sciter-js-sdk-$version\\bin\\windows\\arm64\\scapp.exe",
+                    [
+                        "sciter-js-sdk-$version\\bin\\windows\\arm64\\scapp.exe",
+                        "quark",
+                        "sciter-js-sdk-$version\\quark\\index.htm --debug"
+                    ]
                 ]
             }
         },
         "bin": [
             "sciter-js-sdk-$version\\bin\\windows\\packfolder.exe",
             "sciter-js-sdk-$version\\bin\\windows\\qjs.exe",
-            "sciter-js-sdk-$version\\bin\\windows\\qjsc.exe",
-            [
-                "scapp.exe",
-                "quark",
-                "sciter-js-sdk-$version\\quark\\index.htm --debug"
-            ]
+            "sciter-js-sdk-$version\\bin\\windows\\qjsc.exe"
         ]
     }
 }
