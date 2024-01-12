@@ -26,3 +26,4 @@ scoop bucket add sfm-cn 'https://mirror.ghproxy.com/github.com/felixmaker/sfm-cn
 | yy-thunks[-beta]  | https://github.com/Chuyu-Team/YY-Thunks/       |
 | sciter-js-sdk     | https://gitlab.com/sciter-engine/sciter-js-sdk |
 | thunk             | https://github.com/felixmaker/thunk/           |
+| protoc-gen-js     | https://github.com/protocolbuffers/protobuf-javascript |
