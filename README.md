@@ -6,8 +6,6 @@
 scoop bucket add felixmaker 'https://github.com/felixmaker/scoop-felixmaker'
 ```
 
-[加速镜像](https://github.com/felixmaker/sfm-cn/)
-
 ## List of buckets
 
 | Name              | URL                                                    |
