@@ -1,4 +1,4 @@
-# Scoop Bucket maintained by Felixmaker 
+# Scoop Bucket maintained by Felixmaker
 
 [![Tests](https://github.com/felixmaker/scoop-felixmaker/actions/workflows/ci.yml/badge.svg)](https://github.com/felixmaker/scoop-felixmaker/actions/workflows/ci.yml) [![Excavator](https://github.com/felixmaker/scoop-felixmaker/actions/workflows/excavator.yml/badge.svg)](https://github.com/felixmaker/scoop-felixmaker/actions/workflows/excavator.yml)
 
