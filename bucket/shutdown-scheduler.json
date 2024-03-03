@@ -14,6 +14,13 @@
         }
     },
     "checkver": "github",
+    "bin": "shutdown-scheduler.exe",
+    "shortcuts": [
+        [
+            "shutdown-scheduler.exe",
+            "Shutdown Scheduler"
+        ]
+    ],
     "autoupdate": {
         "architecture": {
             "64bit": {
