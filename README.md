@@ -13,6 +13,7 @@ scoop bucket add felixmaker 'https://github.com/felixmaker/scoop-felixmaker'
 | vc-ltl5[-beta]       | https://github.com/Chuyu-Team/VC-LTL5/                    |
 | yy-thunks[-beta]     | https://github.com/Chuyu-Team/YY-Thunks/                  |
 | sciter-js-sdk        | https://gitlab.com/sciter-engine/sciter-js-sdk            |
-| thunk                | https://github.com/felixmaker/thunk/                      |
 | protoc-gen-js        | https://github.com/protocolbuffers/protobuf-javascript    |
 | portable-build-tools | https://github.com/Data-Oriented-House/PortableBuildTools |
+| thunk                | https://github.com/felixmaker/thunk/                      |
+| shutdown-scheduler   | https://github.com/felixmaker/shutdown-scheduler/         |
