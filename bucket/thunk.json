@@ -18,21 +18,5 @@
         "yy-thunks"
     ],
     "bin": "thunk.exe",
-    "checkver": "github",
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/felixmaker/thunk/releases/download/v$version/thunk-v$version-win32-x64.zip",
-                "hash": {
-                    "url": "$url.sha256sum"
-                }
-            },
-            "32bit": {
-                "url": "https://github.com/felixmaker/thunk/releases/download/v$version/thunk-v$version-win32-ia32.zip",
-                "hash": {
-                    "url": "$url.sha256sum"
-                }
-            }
-        }
-    }
+    "checkver": "github"
 }
