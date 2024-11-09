@@ -1,5 +1,5 @@
 {
-    "version": "2.7",
+    "version": "2.8",
     "homepage": "https://github.com/Data-Oriented-House/PortableBuildTools",
     "description": "Portable VS Build Tools installer",
     "license": "https://go.microsoft.com/fwlink/?LinkId=2179911",
@@ -9,8 +9,8 @@
         " - You can use `scoop uninstall portable-build-tools -p` to uninstall PortableBuildTools and MSVC toolchains.",
         " - Read license https://go.microsoft.com/fwlink/?LinkId=2179911."
     ],
-    "url": "https://github.com/Data-Oriented-House/PortableBuildTools/releases/download/v2.7/PortableBuildTools.exe",
-    "hash": "2f13d3abc9cd382eb6ce8839a005fa48613905f74fae7956209c4c55dad09d9c",
+    "url": "https://github.com/Data-Oriented-House/PortableBuildTools/releases/download/v2.8/PortableBuildTools.exe",
+    "hash": "d3a419be62856ab8896004f91af58f5928ce7c536954398d02a8b99202c4808f",
     "installer": {
         "script": [
             "if (!(Test-Path -Path $persist_dir\\BuildTools)) {",
