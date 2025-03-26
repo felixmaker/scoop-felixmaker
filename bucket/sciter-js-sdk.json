@@ -1,14 +1,14 @@
 {
-    "version": "6.0.1.1",
+    "version": "6.0.1.2",
     "description": "Sciter.JS - HTML/CSS/JS embeddable engine.",
     "homepage": "https://gitlab.com/sciter-engine/sciter-js-sdk",
     "license": "BSD-3-Clause",
     "suggest": {
         "ImageMagick": "main/imagemagick"
     },
-    "url": "https://gitlab.com/sciter-engine/sciter-js-sdk/-/archive/6.0.1.1/sciter-js-sdk-6.0.1.1.zip",
-    "hash": "f65a497cf33c3fb81b57db204e1bd141c05b7eeac8bcea55d3dac900fe8dcc76",
-    "extract_dir": "sciter-js-sdk-6.0.1.1",
+    "url": "https://gitlab.com/sciter-engine/sciter-js-sdk/-/archive/6.0.1.2/sciter-js-sdk-6.0.1.2.zip",
+    "hash": "19db47783aa6209b59f3ce393ce45d5614f11a03aa0342b73e1826dc9d2cc243",
+    "extract_dir": "sciter-js-sdk-6.0.1.2",
     "architecture": {
         "32bit": {
             "env_add_path": "bin\\windows\\x32",
