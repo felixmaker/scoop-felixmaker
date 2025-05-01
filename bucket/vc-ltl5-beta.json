@@ -4,7 +4,7 @@
     "homepage": "https://github.com/Chuyu-Team/VC-LTL5/",
     "license": "MIT",
     "url": "https://github.com/Chuyu-Team/VC-LTL5/releases/download/v5.2.2-Beta1/VC-LTL-Binary.7z",
-    "hash": "a054ec0a8c59eba3b365a498b4ef3b813eb2a59b0ee2ea2ca706637b4e11d4f2",
+    "hash": "ec8504527eec03a249ee9bab7fa1d2768b1b3bb8731535d59a0cc75b103c5bbd",
     "env_set": {
         "VC_LTL": "$dir"
     },
