@@ -1,6 +1,6 @@
 {
     "version": "5.2.2-Beta1",
-    "description": "Fix DecodePointer, EncodePointer, RegDeleteKeyEx etc. APIs not found in Windows XP RTM.",
+    "description": "Shared to msvcrt.dll or ucrtbase.dll and optimize the C/C++ application file size.",
     "homepage": "https://github.com/Chuyu-Team/VC-LTL5/",
     "license": "MIT",
     "url": "https://github.com/Chuyu-Team/VC-LTL5/releases/download/v5.2.2-Beta1/VC-LTL-Binary.7z",
